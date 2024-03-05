@@ -37,13 +37,13 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **screenToGIF**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
-
+![project2](https://github.com/ArielCOng/and101-project2-starter/assets/92648240/89fd5098-14c7-4407-83bd-fdca4c461d62)
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
