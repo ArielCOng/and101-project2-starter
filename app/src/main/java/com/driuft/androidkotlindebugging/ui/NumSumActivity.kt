@@ -14,8 +14,8 @@ class NumSumActivity : AppCompatActivity() {
         setContentView(R.layout.activity_num_sum)
 
         val a = 2
-        val b = "2" as Int
-
+  //      val b = "2" as Int
+        val b = 2   //og problem occured b/c 'as' unreliable. can safely cast string to int with toInt()
         resultText.text = "${sumOfTwo(a, b)}"
     }
 
